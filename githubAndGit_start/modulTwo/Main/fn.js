@@ -1,4 +1,4 @@
-const addFn = (...arg) => {
+export const addFn = (...arg) => {
   let array = [...arg];
   if (!array.length) return;
 
@@ -6,3 +6,5 @@ const addFn = (...arg) => {
 };
 
 let c = addFn(3, 23, 45, 121, 2432, 34, 34, 35, 4);
+
+console.log(c);
