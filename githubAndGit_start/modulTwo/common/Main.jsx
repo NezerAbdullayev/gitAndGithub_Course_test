@@ -1,1 +1,3 @@
-export const Main = ({ children }) => <main>{children}</main>;
+export const Main = ({ children }) => (
+  <main className={{ width: 100, heigth: 100 }}>{children}</main>
+);
