@@ -8,4 +8,10 @@ function logFn() {
   console.log("log")
 }
 //  new change
-// test branch commit 
+// test branch commit
+//test gitKraken merge
+
+
+
+//test generating merge commit 
+export const div = "test"
