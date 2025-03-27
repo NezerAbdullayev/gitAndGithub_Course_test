@@ -1,4 +1,3 @@
 Hello my firend
+confilicts
 First change
-
-develop change
