@@ -19,3 +19,4 @@ export const getFormattedData = data => {
 
   return formatData;
 };
+console.log("wtest");

@@ -1,5 +1,5 @@
 Hello my firend
-confilicts
+conflicts
 First change
 
 develop change
