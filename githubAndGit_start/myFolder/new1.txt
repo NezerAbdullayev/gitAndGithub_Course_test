@@ -3,4 +3,4 @@
 3 green
 4 yellow
 5 black
-6 white
+6 orange
