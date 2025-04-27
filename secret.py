@@ -17,3 +17,16 @@ if __name__ == "__main__":
 
 # This is a secret file
 # It contains sensitive information
+
+
+def add(a, b):
+    return a + b
+
+
+example = "This is an example string"
+def example_function():
+    return "This is an example function"
+
+list_of_numbers = [1, 2, 3, 4, 5]
+def example_function_2():
+    return "This is another example function"
