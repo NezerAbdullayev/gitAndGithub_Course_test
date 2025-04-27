@@ -30,3 +30,9 @@ def example_function():
 list_of_numbers = [1, 2, 3, 4, 5]
 def example_function_2():
     return "This is another example function"
+
+def example_function_3():  
+    var add = 23
+    var sub = 32  
+    func add(a, b):
+        return a + b
