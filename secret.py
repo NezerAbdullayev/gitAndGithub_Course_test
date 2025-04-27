@@ -36,3 +36,9 @@ def example_function_3():
     var sub = 32  
     func add(a, b):
         return a + b
+
+
+print("This is a secret file")
+print("a + b = ", add(a, b))``
+
+print("a - b = ", sub(a, b))
