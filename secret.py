@@ -42,3 +42,6 @@ print("This is a secret file")
 print("a + b = ", add(a, b))``
 
 print("a - b = ", sub(a, b))
+
+var a ="git revert HEAD"
+var b="git reset HEAD"
