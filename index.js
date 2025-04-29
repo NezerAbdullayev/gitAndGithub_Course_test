@@ -10,3 +10,6 @@ function getNews() {
     });
 }
 getNews();
+
+var log = require("./log.js");
+var news = require("./news.js");
